@@ -8,4 +8,9 @@ public class Demo6
 	
 		System.out.println("class created by ramesh");
 	}
+	
+	public void m1()
+	{
+		System.out.println("hi");
+	}
 }
